@@ -35,13 +35,13 @@ $ git clone https://github.com/MaximeInc/PythonRedis.git
 
 Dans un premier temps, il est nécessaire de lancer le serveur Redis afin de pouvoir intéragir avec celui-ci.
 
-- **Lancer le server redis :**
+- **Lancer le serveur redis :**
 ```
 $ sudo service redis-server start
 ```
 On peut ensuite lancer notre application.
 
-- **Lancer le server HTTP :**
+- **Lancer l'application :**
 ```
 $ python3 redisPython.py
 ```
