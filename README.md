@@ -56,5 +56,5 @@ Notre application permet donc de créer, ou consulter des notes ajoutées dans l
 - **Consulter une note via son id :**
     - **Curl :** `$ curl http://localhost:8080/notes/{idnote}` 
 - **Consulter toutes les notes disponibles :**
-    - **Curl :** `$ curl  http://localhost:8080/notes` 
+    - **Curl :** `$ curl  http://localhost:8080/notes/` 
 
